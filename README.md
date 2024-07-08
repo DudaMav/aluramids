@@ -1,2 +1,1 @@
-# aluramids
-Quadro de sons. 
+
